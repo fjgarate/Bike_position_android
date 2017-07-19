@@ -95,6 +95,8 @@ public class MainActivity extends AppCompatActivity {
                     }
                 });
         dialog.show();
+
+
     }
     public void toggleGPSUpdates(View view) {
         if (!checkLocation())
