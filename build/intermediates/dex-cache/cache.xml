@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\fgarate\AndroidStudioProjects\Bike_position_android\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0385102e64dccd4b7c8ffb934e1dc93918ed3b6d">
+        <dex dex="C:\Users\fgarate\AndroidStudioProjects\Bike_position_android\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_ef93121e65d4a86f71b344dc776ba7670365a2c2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\fgarate\AndroidStudioProjects\Bike_position_android\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\fgarate\AndroidStudioProjects\Bike_position_android\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_c6ca2175b8d80777866dcd3f799b5ea78633583a\classes.dex" />
+    </item>
+
+</items>
