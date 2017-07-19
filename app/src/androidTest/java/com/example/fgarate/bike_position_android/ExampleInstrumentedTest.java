@@ -23,4 +23,5 @@ public class ExampleInstrumentedTest {
 
         assertEquals("com.example.fgarate.bike_position_android", appContext.getPackageName());
     }
+
 }
