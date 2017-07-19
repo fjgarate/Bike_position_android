@@ -92,6 +92,7 @@ public class MyService extends Service
         } catch (IllegalArgumentException ex) {
             Log.d(TAG, "gps provider does not exist " + ex.getMessage());
         }
+
     }
 
     @Override
